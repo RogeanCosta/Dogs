@@ -19,6 +19,12 @@
 
 .cadastro {
   margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.cadastro p {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 .subtitle {
@@ -34,9 +40,4 @@
   height: 0.5rem;
   width: 3rem;
   border-radius: 0.2rem;
-}
-
-.cadastro p {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
 }
